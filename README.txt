@@ -9,11 +9,6 @@ grid (which this one relies on pretty heavily) but mostly to get back to making 
 and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
 continued support despite the lack of updates :)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
 AJ
 aj@lkn.io | @ajlkn
 
